@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
       title: 'Startup Name Generator',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Startup Name Generator'),
+          title: const Text('Proiect Darius&Diana'),
         ),
         body: const Center(
           child: RandomWords(),
